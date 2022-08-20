@@ -12,4 +12,4 @@ correction exo1 XPath
 3 - count(/library/book[type='bd'])
 
 
-4 - 
+4 - affiche les information du roman intitulé "tuto5" de son auteur "titi"
